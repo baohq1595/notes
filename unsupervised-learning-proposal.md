@@ -3,6 +3,10 @@
 - This note give a proposal about unsupervised learning and representation learning based on deep neural network.
 - For a big picture about this proposal, refer to [Representation Learning: A Review and New Perspectives](http://www2.cs.uh.edu/~ceick/7362/T3-1.pdf)
 
+### Keywords
+- Representation learning, Unsupervised learning.
+- Sparse Coding, Autoencoder, Variational autoencoder, Restricted Boltzmann Machine, Graphical Model.
+- PCA, t-SNE.
 
 ### Motivation
 
